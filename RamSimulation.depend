@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1554821167 source:/home/aswin/Documents/Aswin/RamSimulation/main.cpp
+	<iostream>
+	"dependencies.cpp"
+
+1554821617 /home/aswin/Documents/Aswin/RamSimulation/dependencies.cpp
+
